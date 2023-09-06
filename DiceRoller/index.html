@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Dice Roller</title>
+  <script src="js/main.js" defer></script>
+  <link rel="stylesheet" href="css/main.css">
+</head>
+
+<h1>Dice Roller</h1>
+
+<body>
+<div class="row">
+  <p> Dice Type
+    <select id="diceType">
+    <option value="20">D20</option>
+    <option value="12">D12</option>
+    <option value="10">D10</option>
+    <option value="8">D8</option>
+    <option value="6">D6</option>
+    <option value="4">D4</option>
+  </select>
+  </p>
+
+  <h2> Number Rolled</h2>
+  <p><input type="text" id="result"></p>
+  <h2>Modifier</h2>
+  <p><input type="number" id="modifier" value="0"></p>
+  <p><button type="button" id="submit" onclick="roll('body')">Roll</button></p>
+
+  <h2>Total</h2>
+  <p><input type="text" id="total" placeholder="0">
+
+
+</div>
+
+
+</body>
+</html>

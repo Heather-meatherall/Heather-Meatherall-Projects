@@ -1,5 +1,7 @@
 # Heather Meatherall's Projects
 
+DesktopFox: A desktop pet made using pythong anf tkinker
+
 DiceRoller: A Dice Roller that allows the user to chnage dice type and choose a modifer using HTML, JavaScript and CSS
 
 DiceTest: Looking at data collected from different methods of rolling a dice and comparing the results

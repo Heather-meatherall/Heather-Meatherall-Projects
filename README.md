@@ -8,6 +8,4 @@ DiceTest: Looking at data collected from different methods of rolling a dice and
 
 ScreenSaver: A screensaver involving octagons that move around the screen using C++
 
-Website: A resume website using HTML, JavaScript and CSS/Bootstrap
-
 magic8: A random numbers generator themed after a magic 8 ball using python

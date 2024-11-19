@@ -24,4 +24,4 @@ To do so, run the following commands in your terminal
 2. pyinstaller "main.py"
 
 This will create a dist folder which contains the executable file. Click on it to run the program.
-Not that every time you edit the main.py file, you will need to create a new executable.
+Note that every time you edit the main.py file, you will need to create a new executable.

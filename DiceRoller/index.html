@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Dice Roller</title>
+  <script src="js/main.js" defer></script>
+  <link rel="stylesheet" href="css/main.css">
+
+</head>
+
+<header>
+  <h1>Dice Roller</h1>
+</header>
+
+<hr> <!--insert a horizontal line-->
+<nav>
+  <div>
+    <a href="index.html" class="active">Main Dice Roller</a>
+    <a href="HitPoints.html" class="button">Hit Point Roller</a>
+    <a href="DeathSaves.html" class="button">Death Save Roller</a>
+  </div>
+</nav>
+<hr> <!--insert a horizontal line-->
+
+<div class="row">
+<!--  <h2>Roll Type</h2>-->
+<!--  <p>-->
+<!--    <input type="radio" id="ad" value="ad" name="rollType">-->
+<!--    <label for="ad">Advantage</label>-->
+<!--    <input type="radio" id="flat" value="flat" name="rollType" checked>-->
+<!--    <label for="flat">Flat</label>-->
+<!--    <input type="radio" id="dis" value="dis" name="rollType">-->
+<!--    <label for="dis">Disadvantage</label>-->
+<!--  </p>-->
+
+  <h2>Dice Type</h2>
+  <p> <input type="number" id="diceNum" class="number">
+    D
+    <select id="diceType">
+    <option value="20">20</option>
+    <option value="12">12</option>
+    <option value="10">10</option>
+    <option value="8">8</option>
+    <option value="6">6</option>
+    <option value="4">4</option>
+  </select>
+
+  </p>
+
+<!--  <p>-->
+<!--    <input type="checkbox" id="exploding">-->
+<!--    <label for="ad">Exploding Damage?</label>-->
+<!--  </p>-->
+
+  <h2> Number(s) Rolled</h2>
+  <p><input type="text" id="result"></p>
+  <h2>Modifier</h2>
+  <p><input type="number" id="modifier" value="0"></p>
+  <p><button type="button" id="submit" onclick="roll('body')">Roll</button></p>
+
+  <h2>Total</h2>
+  <p><input type="text" id="total" placeholder="0">
+
+
+</div>
+
+</html>
+

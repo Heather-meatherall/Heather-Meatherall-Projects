@@ -14,4 +14,5 @@ magic8: A random numbers generator themed after a magic 8 ball using python
 
 ## Group Projects
 [Bunnies Through The Decades](https://github.com/Maheen012/Bunniverse-NFT): A generative art NFT project made using Python and Jupyter Notebook
+
 [Photo Editor](https://github.com/Heather-meatherall/PhotographyProject): A photo editor application using Python

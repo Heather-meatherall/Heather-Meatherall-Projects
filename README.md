@@ -11,3 +11,7 @@ Poetry Website: A Poetry Portfolio made using HTML, JavaScript, CSS and Bootstra
 ScreenSaver: A screensaver involving octagons that move around the screen using C++
 
 magic8: A random numbers generator themed after a magic 8 ball using python
+
+## Group Projects
+[Bunnies Through The Decades](https://github.com/Maheen012/Bunniverse-NFT): A generative art NFT project made using Python and Jupyter Notebook
+[Photo Editor](https://github.com/Heather-meatherall/PhotographyProject): A photo editor application using Python

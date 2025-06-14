@@ -20,7 +20,7 @@ Because these rolls are treated differently in dnd during death saves, these are
 
 ![Nat One display](img/NatOne.png) ![Nat Twenty display](img/NatTwenty.png)
 
-
-This website is hosted on [neocities](https://diceroller.neocities.org/)
+### Website Location
+This website is hosted on neocities. To see it, roll a perception check (or just click [here](https://diceroller.neocities.org/))
 
 

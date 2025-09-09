@@ -2,11 +2,9 @@
 
 DesktopFox: A desktop pet made using python and tkinker
 
-DiceRoller: A Dice Roller that allows the user to chnage dice type and choose a modifer using HTML, JavaScript and CSS
+[Dice Roller](https://diceroller.neocities.org/): A Dice Roller that allows the user to chnage dice type and choose a modifer using HTML, JavaScript and CSS
 
 DiceTest: Looking at data collected from different methods of rolling a dice and comparing the results
-
-Poetry Website: A Poetry Portfolio made using HTML, JavaScript, CSS and Bootstrap
 
 ScreenSaver: A screensaver involving octagons that move around the screen using C++
 

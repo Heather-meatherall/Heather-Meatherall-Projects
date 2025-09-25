@@ -2,7 +2,7 @@
 
 DesktopFox: A desktop pet made using python and tkinker
 
-[Dice Roller](https://diceroller.neocities.org/): A Dice Roller that allows the user to chnage dice type and choose a modifer using HTML, JavaScript and CSS
+[Dice Roller](https://diceroller.neocities.org/): A Dice Roller based on the different ways you roll dice in a dnd game using HTML, JavaScript and CSS
 
 DiceTest: Looking at data collected from different methods of rolling a dice and comparing the results
 
